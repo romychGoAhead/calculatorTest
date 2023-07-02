@@ -1,4 +1,4 @@
-package com.example.calculatortest;
+package com.example.calculatorTest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
